@@ -1,0 +1,10 @@
+caption{
+    background-color: red;
+    width: 400px;
+    color: white;
+}
+body{
+    width: 400px;
+    border: 10px solid #F0F3F6;
+    padding: 5px;
+}
